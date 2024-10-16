@@ -1,5 +1,3 @@
-heloo my nigga
-
 // variable for current state of simulation
 let state = {
     protons: 1, // num of protons
