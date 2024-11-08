@@ -1,0 +1,34 @@
+.simulationElements {
+    font-family: Hind;
+    color: white;
+    padding: 0;
+    border: 0;
+    margin: 0;
+}
+
+.explanationElements {
+    font-family: Hind;
+    color: white;
+}
+
+#explanationBody {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+#sourceText {
+    font-size: 9px;
+}
+
+#returnHome {
+    margin-right: auto;
+    display: block;
+}
+
+body {
+    background-color: Black;
+}
+
+img {
+    border: 2px solid white;
+}

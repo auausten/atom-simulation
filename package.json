@@ -1,0 +1,22 @@
+{
+  "name": "atom-simulator",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "three": "^0.169.0",
+    "vite": "^4.4.9"
+  },
+  "devDependencies": {
+    "@types/dat.gui": "^0.7.13",
+    "dat.gui": "^0.7.9"
+  }
+}
